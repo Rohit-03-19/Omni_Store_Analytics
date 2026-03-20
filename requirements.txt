@@ -1,0 +1,19 @@
+# Databases
+supabase
+pymongo
+
+# Data Analysis & Math
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+python-dotenv
+pyyaml
+requests
+
+# Development
+pytest

@@ -1,0 +1,14 @@
+# 1. Security (The most important line)
+.env
+
+venv/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+logs/*.log
+data/raw/*
+data/processed/*
+
+.vscode/
