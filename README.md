@@ -32,16 +32,18 @@ omni_store_analytics/
 └── main.py            # Unified Pipeline Entry Point
 ```
 
-🚀 Key Features
-Hybrid Data Merging: Efficiently joins SQL and NoSQL datasets using standardized keys.
+## 🚀 Key Features
 
-Customer Loyalty Engine: Uses NumPy-based normalization to segment customers into Bronze, Silver, and Gold tiers.
+- Hybrid Data Merging: Efficiently joins SQL and NoSQL datasets using standardized keys.
 
-Automated Reporting: Generates revenue distribution charts and saves them directly to local storage.
+- Customer Loyalty Engine: Uses NumPy-based normalization to segment customers into Bronze, Silver, and Gold tiers.
 
-Production-Ready Utilities: Implements custom error handling and performance-monitoring decorators.
+- Automated Reporting: Generates revenue distribution charts and saves them directly to local storage.
 
-🚦 Getting Started
+- Production-Ready Utilities: Implements custom error handling and performance-monitoring decorators.
+
+## 🚦 Getting Started
+
 Clone the repository.
 
 Create a virtual environment: python -m venv venv.
@@ -54,6 +56,7 @@ Seed the database: python seed_data.py.
 
 Run the pipeline: python main.py.
 
-🧪 Testing
+## 🧪 Testing
+
 Run the automated test suite to verify math and processing logic:
 python -m pytest
