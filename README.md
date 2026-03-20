@@ -30,7 +30,7 @@ omni_store_analytics/
 ├── notebooks/         # Exploratory Data Analysis (EDA)
 ├── tests/             # Automated Unit & Integration Tests
 └── main.py            # Unified Pipeline Entry Point
-
+```
 
 🚀 Key Features
 Hybrid Data Merging: Efficiently joins SQL and NoSQL datasets using standardized keys.
@@ -57,4 +57,3 @@ Run the pipeline: python main.py.
 🧪 Testing
 Run the automated test suite to verify math and processing logic:
 python -m pytest
-```
